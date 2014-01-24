@@ -11,3 +11,12 @@ Present latest research findings
 3. Read the paper and [Email me to get dibs](lawrancej@wit.edu)
 4. Pick a date for your presentation.
 5. Prepare and present.
+
+Beta test this!
+---------------
+Let's use Starter Upper to clone and set up this repo toay.
+
+Download it from starterupper-0.0.1.zip.
+Extract it, and then open the bin folder and run the .bat file.
+
+When asked for the upstream repo, use the URL above.
