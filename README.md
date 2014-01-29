@@ -49,6 +49,17 @@ Date | Presenter
 19   | Dan
 21   | Susan
 
+Prototyping project
+-------------------
+
+1. Find some real person with issues
+2. What's their goal? Ask why like a toddler. Take notes.
+3. Observe said person trying to achieve their goal or some tasks related to it. Take notes
+4. How do they currently achieve their goal?
+5. Could we do better?
+6. Paper prototypes
+7. Write up
+
 Beta test this!
 ---------------
 Let's use Starter Upper to clone and set up this repo toay.
