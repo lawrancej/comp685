@@ -3,6 +3,16 @@ COMP685: Human Computer Interaction
 
 This course covers human computer interaction. We'll examine current topics in HCI, make presentations on the latest research, develop and evaluate prototypes.
 
+Reading schedule
+----------------
+
+Month    | Reading
+------------------
+January  | Ch 1-3
+February | Ch 4-6
+March    | Ch 7-9
+April    | Ch 10-12
+
 Present latest research findings
 --------------------------------
 
@@ -27,15 +37,17 @@ Think of a question in advance.
 
 ### Presentation schedule
 
-3	Jonathan
-5	Patrick McGee
-7	Rick
-10	Nick
-12	Aaron
-14	Pat Greene (HOOAAAAAAAAAAAA)
-17	Alex
-19	Dan
-21	Susan
+Date | Presenter
+-----------------
+3    | Jonathan
+5    | Patrick McGee
+7    | Rick
+10   | Nick
+12   | Aaron
+14   | Pat Greene (HOOAAAAAAAAAAAA)
+17   | Alex
+19   | Dan
+21   | Susan
 
 Beta test this!
 ---------------
