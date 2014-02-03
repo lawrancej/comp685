@@ -52,13 +52,14 @@ Date | Presenter
 Prototyping project
 -------------------
 
-1. Find some real person with issues related to using computer programs.
-2. What's their goal? Ask why like a toddler. Take notes.
-3. Observe said person trying to achieve their goal or some tasks related to it. Take notes.
-4. How do they currently achieve their goal?
-5. Could we do better?
-6. Paper prototypes
-7. Write up
+This will be part of a write-up.
+
+1. Find some real person with issues related to using computer programs. What's their name? You should know this by now.
+2. What's their problem? What's their goal? How do they currently achieve their goal? Ask why like a toddler. Take notes. Write this up by February 11.
+3. Observe said person trying to achieve their goal or some tasks related to it. Take notes. Write this up by February 18.
+4. Could we do better?
+5. Paper prototypes
+6. Write up
 
 Beta test this!
 ---------------
