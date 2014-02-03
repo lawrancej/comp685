@@ -39,15 +39,15 @@ Think of a question in advance.
 
 Date | Presenter
 ---- | ----------
-3    | Jonathan
-5    | Patrick McGee
-7    | Rick
-10   | Nick
+5    | [Patrick McGee](http://people.csail.mit.edu/erinsol/papers/uist09.pdf)
+7    | [Rick](http://www.stefaniemueller.org//wp-content/themes/f8-lite/images/laserorigami/2013-chi-mueller-kruck-baudisch-laserorigami.pdf)
+10   | [Nick](http://dl.acm.org/citation.cfm?doid=2470654.2466135)
 12   | Aaron
 14   | Pat Greene (HOOAAAAAAAAAAAA)
 17   | Alex
 19   | Dan
 21   | Susan
+24   | Jonathan
 
 Prototyping project
 -------------------
@@ -62,7 +62,7 @@ Prototyping project
 
 Beta test this!
 ---------------
-Let's use Starter Upper to clone and set up this repo toay.
+Let's use Starter Upper to clone and set up this repo today.
 
 Download it from starterupper-0.0.1.zip.
 Extract it, and then open the bin folder and run the .bat file.
