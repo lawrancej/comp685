@@ -42,7 +42,7 @@ Date | Presenter
 7    | [Patrick McGee](http://people.csail.mit.edu/erinsol/papers/uist09.pdf)
 10    | [Rick](http://www.stefaniemueller.org//wp-content/themes/f8-lite/images/laserorigami/2013-chi-mueller-kruck-baudisch-laserorigami.pdf)
 12   | [Nick](http://dl.acm.org/citation.cfm?doid=2470654.2466135)
-14   | Aaron
+14   | [Aaron]()
 17   | Pat Greene (HOOAAAAAAAAAAAA)
 19   | Alex
 21   | Dan
@@ -56,10 +56,17 @@ This will be part of a write-up.
 
 1. Find some real person with issues related to using computer programs. What's their name? You should know this by now.
 2. What's their problem? What's their goal? How do they currently achieve their goal? Ask why like a toddler. Take notes. Write this up by February 11.
-3. Observe said person trying to achieve their goal or some tasks related to it. Take notes. Write this up by February 18.
-4. Could we do better?
-5. Paper prototypes
-6. Write up
+3. Observe said person trying to achieve their goal or some tasks related to it. Take notes. Write this up by February 18. Suggested things to look for:
+
+        * Could we do better?
+        * What's repetitive?
+        * What's error prone?
+        * Is it discoverable?
+        * What assumptions is the user interface making of the user?
+        * Look out for geek speek.
+
+4. Paper prototypes. Observe them again with said prototypes.
+5. Write up
 
 Beta test this!
 ---------------
