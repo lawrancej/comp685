@@ -40,14 +40,14 @@ Think of a question in advance.
 Date | Presenter
 ---- | ----------
 7    | [Patrick McGee](http://people.csail.mit.edu/erinsol/papers/uist09.pdf)
-10    | [Ricky](http://www.stefaniemueller.org//wp-content/themes/f8-lite/images/laserorigami/2013-chi-mueller-kruck-baudisch-laserorigami.pdf)
+10   | [Ricky](http://www.stefaniemueller.org//wp-content/themes/f8-lite/images/laserorigami/2013-chi-mueller-kruck-baudisch-laserorigami.pdf)
 12   | [Nick](http://dl.acm.org/citation.cfm?doid=2470654.2466135)
 14   | [Aaron](http://dl.acm.org/citation.cfm?id=2543921&CFID=404556350&CFTOKEN=77963591)
 19   | [Pat Greene (HOOAAAAAAAAAAAA)](http://dl.acm.org/citation.cfm?doid=2470654.2466200)
 21   | [Alex](http://dl.acm.org/citation.cfm?doid=2470654.2466419)
-24   | Dan
-26   | Jonathan
-28   | Susan
+24   | [Dan](http://dl.acm.org/citation.cfm?id=2466457)
+26   | [Jonathan](http://dl.acm.org/citation.cfm?id=2470654.2466260&coll=DL&dl=ACM&CFID=413794045&CFTOKEN=63464703)
+28   | [Susan](http://dl.acm.org/citation.cfm?id=2470654.2470662&coll=DL&dl=ACM&CFID=413794045&CFTOKEN=63464703)
 
 Prototyping project
 -------------------
