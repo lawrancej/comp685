@@ -71,7 +71,7 @@ This will be part of a write-up.
         * Look out for geek speek.
 
 4. Paper prototypes. Observe them again with said prototypes.
-5. Write up
+5. [Write up details](https://github.com/lawrancej/comp685/blob/master/project/project.pdf)
 
 Beta test this!
 ---------------
